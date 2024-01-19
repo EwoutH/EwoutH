@@ -1,4 +1,4 @@
-_The Renaissance wouldn't have happened without the printing press. Pluto wouldn't be discovered without a telescope. My whole carreer wouldn't exist without semiconductors._
+_The Renaissance wouldn't have happened without the printing press. Pluto wouldn't be discovered without a telescope. My whole industry wouldn't exist without semiconductors._
 
 Often it's our tools that are holding us back.
 
