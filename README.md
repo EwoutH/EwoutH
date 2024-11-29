@@ -3,7 +3,8 @@ _The Renaissance wouldn't have happened without the printing press. Pluto wouldn
 Often it's our tools that are holding us back.
 
 #### Hi, I'm Ewout!
-- TU Delft student in the Engineering and Policy Analysis MSc [program](https://www.tudelft.nl/onderwijs/opleidingen/masters/engineering-and-policy-analysis/msc-engineering-and-policy-analysis).
+- Graduated TU Delft the Engineering and Policy Analysis MSc [program](https://www.tudelft.nl/onderwijs/opleidingen/masters/engineering-and-policy-analysis/msc-engineering-and-policy-analysis).
+  - Resarched the [adoption and urban effects of autonomonous vehicles](https://github.com/EwoutH/urban-self-driving-effects) as master thesis.
 - Specialized in decision making under deep uncertainty, agent-based modelling and the mobility domain.
 - Love working through messy and wicked problems with a combination of technical, societal, political and behavioral components.
 - Teaching assistant for many of our modelling courses:
